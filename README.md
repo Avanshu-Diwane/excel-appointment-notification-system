@@ -57,16 +57,16 @@ This project uses sample appointment data for demonstration purposes. Do not use
 ## Project Screenshots
 
 ### 1. Appointment Management
-![Appointment Management](screenshots/appointment-management.png)
+![Appointment Management](screenshots/Appointment_Management.png)
 
 ### 2. Email Confirmation Process
-![Email Confirmation Process](screenshots/email-confirmation-process.png)
+![Email Confirmation Process](screenshots/Email_Confirmation_Process.png)
 
 ### 3. Notification Status Tracking
-![Notification Status](screenshots/notification-status.png)
+![Notification Status](screenshots/Notification_Status.png)
 
 ### 4. Gmail Confirmation Email
-![Gmail Confirmation](screenshots/gmail-confirmation.png)
+![Gmail Confirmation](screenshots/Gmail_Confirmation.png)
 
 ## Author
 
