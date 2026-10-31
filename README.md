@@ -54,6 +54,20 @@ Users can select an appointment record in Excel and trigger an automated confirm
 
 This project uses sample appointment data for demonstration purposes. Do not use real patient information, personal credentials, deployment URLs, or API secrets in a public repository.
 
+## Project Screenshots
+
+### 1. Appointment Management
+![Appointment Management](screenshots/appointment-management.png)
+
+### 2. Email Confirmation Process
+![Email Confirmation Process](screenshots/email-confirmation-process.png)
+
+### 3. Notification Status Tracking
+![Notification Status](screenshots/notification-status.png)
+
+### 4. Gmail Confirmation Email
+![Gmail Confirmation](screenshots/gmail-confirmation.png)
+
 ## Author
 
 **Avanshu Diwane**
