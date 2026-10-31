@@ -63,10 +63,10 @@ This project uses sample appointment data for demonstration purposes. Do not use
 ![Email Confirmation Process](screenshots/Email_Confirmation_Process.png)
 
 ### 3. Notification Status Tracking
-![Notification Status](screenshots/Notification_Status.png)
+![Notification Status](screenshots/Notification_Status_Tracking.png)
 
 ### 4. Gmail Confirmation Email
-![Gmail Confirmation](screenshots/Gmail_Confirmation.png)
+![Gmail Confirmation](screenshots/Gmail_Confirmation_Email.png)
 
 ## Author
 
